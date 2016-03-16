@@ -1,0 +1,19 @@
+{
+  "name": "morton-proj",
+  "version": "1.0.0",
+  "description": "![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif) ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0"
+  }
+}

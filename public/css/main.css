@@ -1,0 +1,147 @@
+
+
+
+/* navbar */
+
+#tab-links {
+  text-decoration: none;
+  color: black;
+}
+
+#nba {
+  width: 20px;
+  height: 20px;
+}
+
+.logo {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.top-nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  background-color: red;
+
+}
+
+.tab-container {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.tabs {
+  margin: 10px;
+  color: black;
+}
+
+/* footer */
+
+.footer {
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: red;
+  height: 30px;
+
+
+}
+
+/* home-view */
+
+.top-home-container {
+
+  text-align: center;
+
+}
+
+.middle-home-container {
+
+  text-align: center;
+
+}
+
+.login {
+
+  margin: 5px;
+  background-color: blue;
+  color: white;
+  height: 25px;
+  width: 200px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px gray;
+
+}
+
+/* login-view */
+
+.login-container {
+
+  text-align: center;
+
+}
+
+.buttons {
+
+  margin: 10px;
+
+}
+
+.input {
+
+  background-color: white;
+  border: 1px solid gray;
+  font-size: 12px;
+  height: 20px;
+  width: 150px;
+
+}
+
+/* groups-view */
+
+.group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px gray solid;
+}
+
+.group-desc {
+
+  background-color: gray;
+  color: white;
+  height: 30px;
+  display: flex;
+  align-items: center;
+
+}
+.toggle {
+
+  width: 95%;
+
+}
+
+/* contact-view */
+
+.main-contact-container {
+
+    text-align: center;
+    margin: 80px;
+
+}
+.contact-info {
+
+  margin: 10px;
+
+}
+
+.contact-links {
+  text-decoration: none;
+  color: black;
+}
